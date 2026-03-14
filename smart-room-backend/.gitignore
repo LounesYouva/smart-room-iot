@@ -1,0 +1,61 @@
+# ===============================
+# Java / Spring Boot
+# ===============================
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+.mvn/wrapper/maven-wrapper.jar
+
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ===============================
+# Node / React
+# ===============================
+node_modules/
+dist/
+build/
+
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# ===============================
+# Arduino
+# ===============================
+*.hex
+*.elf
+
+# ===============================
+# IDE
+# ===============================
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea
+*.iml
+
+# Eclipse / STS
+.project
+.classpath
+.settings
+.springBeans
+.sts4-cache
+
+# ===============================
+# OS
+# ===============================
+.DS_Store
+Thumbs.db

@@ -1,0 +1,38 @@
+# Java / Spring Boot
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+.mvn/wrapper/maven-wrapper.jar
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# IDE
+.vscode/
+.idea
+*.iml
+.project
+.classpath
+.settings
+.springBeans
+.sts4-cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
