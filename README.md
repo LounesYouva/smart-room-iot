@@ -79,16 +79,6 @@ Le système repose sur une architecture en plusieurs couches :
 
 ---
 
-# 📂 Structure du projet
-smart-room-iot
-│
-├── arduino-firmware # Code embarqué Arduino
-├── python-bridge # Script Python communication série → API
-├── backend-springboot # API REST Spring Boot
-├── frontend-dashboard # Interface React
-├── architecture # Diagrammes système
-└── docs # Documentation du projet
-
 
 # 🔧 Installation
 
